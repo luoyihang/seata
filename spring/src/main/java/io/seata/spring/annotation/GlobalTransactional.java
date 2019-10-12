@@ -25,6 +25,7 @@ import java.lang.annotation.Target;
 
 /**
  * The interface Global transactional.
+ * @author
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.METHOD)
